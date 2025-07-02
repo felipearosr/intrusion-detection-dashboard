@@ -1,4 +1,4 @@
-# 🛡️ Dashboard de Detección de Intrusiones de Red
+# Dashboard de Detección de Intrusiones de Red
 
 Este es un dashboard interactivo construido con Streamlit para analizar el conjunto de datos **UNSW-NB15** y entrenar modelos de Machine Learning para la detección de intrusiones de red.
 
@@ -8,7 +8,7 @@ La aplicación permite explorar los datos, visualizar el rendimiento de diferent
 
 ---
 
-## 🚀 Características
+## Características
 
 -   **Análisis Exploratorio de Datos (AED)**: Visualizaciones interactivas de la distribución de datos, tipos de ataque y características clave.
 -   **Clasificación Binaria**: Modelos (Random Forest y XGBoost) para clasificar el tráfico como `Normal` o `Ataque`.
@@ -18,7 +18,7 @@ La aplicación permite explorar los datos, visualizar el rendimiento de diferent
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 -   **Python**: Lenguaje de programación principal.
 -   **Streamlit**: Framework para construir la aplicación web interactiva.
@@ -29,7 +29,7 @@ La aplicación permite explorar los datos, visualizar el rendimiento de diferent
 
 ---
 
-## ⚙️ Instalación y Ejecución Local
+## Instalación y Ejecución Local
 
 Sigue estos pasos para ejecutar el dashboard en tu máquina local.
 

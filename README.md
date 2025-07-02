@@ -1,14 +1,3 @@
-¡Perfecto! Vamos a crear un `README.md` de alta calidad y luego a subir todo a un nuevo repositorio público usando GitHub CLI.
-
----
-
-### Paso 1: Crear el archivo `README.md`
-
-Un buen `README.md` es la puerta de entrada a tu proyecto. Debe explicar qué hace el proyecto, cómo instalarlo y cómo usarlo.
-
-Crea un archivo llamado `README.md` en la raíz de tu proyecto (`mi_dashboard_proyecto/`) y pega el siguiente contenido. Está escrito en Markdown y formateado para verse bien en GitHub.
-
-```markdown
 # 🛡️ Dashboard de Detección de Intrusiones de Red
 
 Este es un dashboard interactivo construido con Streamlit para analizar el conjunto de datos **UNSW-NB15** y entrenar modelos de Machine Learning para la detección de intrusiones de red.
@@ -52,10 +41,10 @@ Sigue estos pasos para ejecutar el dashboard en tu máquina local.
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/mi-dashboard-deteccion-intrusiones.git
-cd mi-dashboard-deteccion-intrusiones
+git clone https://github.com/felipearosr/intrusion-detection-dashboard
+cd intrusion-detection-dashboard
 ```
-*(Nota: Reemplaza `tu-usuario` y `mi-dashboard-deteccion-intrusiones` con tu nombre de usuario y el nombre del repositorio una vez creado).*
+
 
 ### 2. Crear un Entorno Virtual (Recomendado)
 

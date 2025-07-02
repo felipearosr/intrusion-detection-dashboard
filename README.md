@@ -71,8 +71,6 @@ pip install -r requirements.txt
 
 Este proyecto utiliza el archivo `UNSW_NB15_testing-set.csv`. Debido a su tamaño, no está incluido en este repositorio. Por favor, descarga el archivo desde la fuente original (o tu fuente) y colócalo en la raíz del proyecto.
 
-> **Fuente del Dataset:** Puedes encontrar el conjunto de datos UNSW-NB15 en [este enlace de Kaggle](https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15) o en el sitio web de la Universidad de Nueva Gales del Sur.
-
 La estructura de tu directorio debe ser:
 ```
 mi-dashboard-deteccion-intrusiones/
